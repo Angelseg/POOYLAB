@@ -2,13 +2,12 @@
 -Correo: huerejoadannn@gmail.com
 
 #Actividad 1
--programa 1
--programa 2
-
-#Actividad 2
--programa 3
--programa 4
-
-#actividad 3
--programa 5
--programa 6
+_p01_HolaMundo
+_p02_AreaCirculo
+_p03_Areatriangulo
+_p04_PagaTrabajador
+_05_OperacionesMatematicas
+_06_PromediodeCalificaciones
+_07_OperadoresAsignacion
+_08_FuncionesTrigonometricas
+_09_DividirCifras
