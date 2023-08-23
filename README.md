@@ -6,8 +6,8 @@ _p01_HolaMundo
 _p02_AreaCirculo
 _p03_Areatriangulo
 _p04_PagaTrabajador
-_05_OperacionesMatematicas
-_06_PromediodeCalificaciones
-_07_OperadoresAsignacion
-_08_FuncionesTrigonometricas
-_09_DividirCifras
+_p05_OperacionesMatematicas
+_p06_PromediodeCalificaciones
+_p07_OperadoresAsignacion
+_p08_FuncionesTrigonometricas
+_p09_DividirCifras
