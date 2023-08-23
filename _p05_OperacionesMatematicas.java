@@ -1,6 +1,6 @@
 //Realiza operaciones matematicas basicas
 
-public class _05_OperacionesMatematicas {
+public class _p05_OperacionesMatematicas {
     public static void main(String[] args) {
         double x, y, suma, resta, mult, div, residuo, pot;
 

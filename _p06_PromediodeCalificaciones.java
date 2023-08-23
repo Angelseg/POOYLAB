@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class _06_PromediodeCalificaciones {
+public class _p06_PromediodeCalificaciones {
     public static void main(String[] args) {
         float cal1, cal2, cal3, suma, prom, min, max;
         cal1 = cal2 = cal3 = 0;
