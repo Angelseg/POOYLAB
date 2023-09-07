@@ -53,3 +53,13 @@
 - _p41_ProcesaCalificaciones
 - _p42_TablaMultiplicar
 - _p43_ConteoNumeros
+## Actividad 8
+- _p44_ParesAscendente
+- _p45_ImparesDescendente
+- _p46_TablaConversion
+- _p47_ConjeturaCollatz
+## Practica 3
+- _p48_ImparesAscendente  
+- _p49_ParesDescendente  
+- _p50_ConversionTemperaturas
+- _p51_SerieFibonaci
