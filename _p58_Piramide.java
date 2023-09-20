@@ -1,3 +1,5 @@
+// Imprime una pirámide del caracter
+
 import java.util.Scanner;
 
 public class _p58_Piramide {
