@@ -96,4 +96,6 @@
 - _p76_DiaSemana  
 - _p77_MedidasLongitud  
 - _p78_SumaMultiplos
-- _p79_Angulo 
+- _p79_Angulo
+## Primer Examen
+- _p80_PrimerExamenParcial 
