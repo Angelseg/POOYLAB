@@ -98,4 +98,11 @@
 - _p78_SumaMultiplos
 - _p79_Angulo
 ## Primer Examen
-- _p80_PrimerExamenParcial 
+- _p80_PrimerExamenParcial
+
+## Actividad 13
+- _p81_InicializaArregloNumeros
+- _p82_InicializaArregloCadenas
+- _p83_InicializaNombresEdades
+- _p84_LeerArregloCalificaciones
+- _p85_NombresEdades
