@@ -133,5 +133,8 @@
 - _p104_PuntoCirculo
 - _p105_PuntoTriangulo
 ## Activida 17
-_p106_Persona
-_p107_Forma
+- _p106_Persona
+- _p107_Forma
+## Practica 9
+- _p108_Vehiculo
+- _p109_FormaV2
