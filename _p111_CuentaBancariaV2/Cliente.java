@@ -33,7 +33,7 @@ public class Cliente {
     public double getTotal() {
         double total = 0;
         for (CuentaBancaria cuenta : Cuentas)
-            total += cuenta.Saldo;
+        total += cuenta.Saldo;
         return total;
     }
 
