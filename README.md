@@ -139,8 +139,8 @@
 - _p108_Vehiculo
 - _p109_FormaV2
 ## Actividad 18
-- _p110_CuentaBancariaV1
+- _p110_CuentaBancaria V1
 ## Actividad 19
-- _p111_CuentaBancariaV2
+- _p111_CuentaBancaria V2
 ## Practica 10
 - _p112_ControlVentas
