@@ -150,3 +150,7 @@
 - _p114_Animal
 - _p115_Telefono
 - _p116_Juego
+- _p117_FiguraGeometrica
+## Actividad 21
+- _p118_Calculadora
+- _p199_Organismo
