@@ -164,3 +164,15 @@
 - _p125_Excepcion5
 - _p126_Excepcion6
 - _p127_MiExcepcion
+## Practica 12
+- _p128_ExcepcionRaiz
+- _p129_ExcepcionDulces
+- _p130_ExcepcionEdades
+- _p131_ExcepcionTemperatura
+## Practica 13
+- _p137_ArchivosDeportes
+- _p138_ArchivoMaterias
+## Actividad 24
+- _p139_HolaMundoGUI
+- _p140_CalcularAreaGUI
+- _p141_LeyDeNewtonGUI
