@@ -183,3 +183,5 @@
 - _p140_HolaMundoGUI
 - _p141_CalcularAreaGUI
 - _p142_LeyDeNewtonGUI
+## Actividad 25
+- _p145_EstudianteGUIV1
