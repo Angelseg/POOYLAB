@@ -185,3 +185,7 @@
 - _p142_LeyDeNewtonGUI
 ## Actividad 25
 - _p145_EstudianteGUIV1
+## Actividad 26
+- _p146_EstudianteGUIV2
+## TercerExamenParcial
+- _p147_TercerExamenParcial
